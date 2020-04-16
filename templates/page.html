@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+  {% block leftcol %}
+
+            <div class="column">
+   {{ page.content | safe }}
+            </div>
+  {% endblock leftcol %}
+
+
+{% block rightcol %}
+<div class="column right">
+</div>
+{% endblock rightcol %}

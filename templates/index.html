@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+  {% block leftcol %}
+            <div class="column">
+
+             {{ section.content|safe }}
+            </div>
+  {% endblock leftcol %}
+
+
+{% block rightcol %}
+            <div class="column right">
+                <img src="{{ get_url(path='images/nat.webp') }}" class="portrait" alt="Portrait" />
+            </div>
+{% endblock rightcol %}
