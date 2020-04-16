@@ -4,9 +4,9 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>{{ config.title }}</title>
-        <link rel="stylesheet" href="{{ get_url(path='@/fonts.css') }}">
-        <link rel="stylesheet" href="{{ get_url(path='@/fontawesome/css/fontawesome.css') }}">
-        <link rel="stylesheet" href="{{ get_url(path='@/hallo.css') }}">
+        <link rel="stylesheet" href="{{ get_url(path='fonts.css') }}">
+        <link rel="stylesheet" href="{{ get_url(path='fontawesome/css/fontawesome.css') }}">
+        <link rel="stylesheet" href="{{ get_url(path='hallo.css') }}">
 
         {% if config.extra.theme %}
             <style>
@@ -62,7 +62,7 @@
 
             {% block rightcol %}
             <div class="column right">
-                <img src="{{ get_url(path='@/images/nat.webp') }}" class="portrait" alt="Portrait" />
+                <img src="{{ get_url(path='images/nat.webp') }}" class="portrait" alt="Portrait" />
             </div>
             {% endblock rightcol %}
         </main>
