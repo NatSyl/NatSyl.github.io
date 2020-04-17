@@ -1,5 +1,6 @@
 +++
 +++
+
 # Natalie Sylvester
 
 ## Key Projects
@@ -32,3 +33,8 @@ culpa qui officia deserunt mollit anim id est laborum.
 
 
 Some extra content goes here...
+
+
+This is yet another paragraph
+
+![](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/images/jan-sale.jpg "Jan sale")
