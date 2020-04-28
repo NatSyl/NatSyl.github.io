@@ -27,16 +27,18 @@ You can see [some of the key projects I've worked on](/projects)
 
  - Marketing Strategy
  - Digital Marketing Campaigns
- - Team Leadership &amp;
- - Key Stakeholder
- - Cost Control / Budget
- - Omni-channel Campaign
- - Research, Diagnosis &amp; Competitive
- - Client Relationship
- - Acquisition and Retention
- - Product
+ - Brand Management
+ - Team Leadership &amp; Development
+ - Key Stakeholder Management
+ - Cost Control / Budget Management
+ - Omni-channel Campaign Management
+ - Research, Diagnosis &amp; Competitive Analysis
+ - Partnership Management
+ - Event Management
+ - Acquisition and Retention Marketing
+ - Digital Product Development
  - Product Messaging
- - Creative &amp; Agency
+ - Creative &amp; Media Agency Management
 
 
 ### Key Accomplishments:
@@ -55,6 +57,14 @@ You can see [some of the key projects I've worked on](/projects)
 
 ### Education and Credentials
 
+<dl>
+  <dt>
+ Mini MBA in Marketing , 
+  </dt>
+  <dd>
+    Online Learning – Mark Ritson & Marketing Week (2020 – In progress)
+  </dd>
+</dl>
 
 <dl>
   <dt>
@@ -77,6 +87,7 @@ You can see [some of the key projects I've worked on](/projects)
 
 ### Technical Proficiencies
 
+ - Microsoft Office (Excel, PowerPoint, Word)
  - Google Analytics
  - Sprinkler
  - Zendesk
