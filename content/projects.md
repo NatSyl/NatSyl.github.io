@@ -8,7 +8,7 @@
 
 ### This is the section where we describe a certain project
 
-![descriptive text that is shown when no image loads (https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads] (https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
