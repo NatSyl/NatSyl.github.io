@@ -8,11 +8,13 @@
 
 ### Kingfisher
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign.png "This is the text that appears when you hover over the image")
+
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign1.png "This is the text that appears when you hover over the image")
 
 GoodHome Global Product Brand Campaign
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/paint%20range.png "This is the text that appears when you hover over the image")
 
 Range launch across markets
 
@@ -34,7 +36,8 @@ Customised paint activity
 
 ### Sainsbury's
 
-![descriptive text that is shown when no image loads](https://dummyimage.com/600x400/cc3322/fff "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
