@@ -38,7 +38,6 @@ During my time at Akzonobel I had a number of roles that saw me successfully lau
 
 
 
-
 #### Dulux Amazing Space launch ad as part of integrated brand campaign
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das3.png "")
@@ -55,7 +54,7 @@ A 70% registration increase was driven through building AB tests, optimising mes
 
 #### Partner activity
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/tsb.jpg "")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/tsb.png "")
 
 
 #### Customised paint activity
@@ -66,11 +65,10 @@ Site/product press launch
 
 Promotion activity and ecrm
 
-
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Easy%20as%201%202.png "")
 
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.jpg "")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.png "")
 
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/ecrm.jpg "")
