@@ -63,6 +63,7 @@ Site/product press launch
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/pr.jpg "")
 
+
 Promotion activity and ecrm
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Easy%20as%201%202.png "")
@@ -71,13 +72,15 @@ Promotion activity and ecrm
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.png "")
 
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/ecrm.jpg "")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/ecrm.png "")
 
 
 
 
 
 ### Sainsbury's
+
+
 
 #### Collection Rebrand
 
