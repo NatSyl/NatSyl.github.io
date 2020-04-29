@@ -5,11 +5,11 @@
 ## Senior Marketing Professional.
 
 Accomplished, hands-on, creative marketer with a proven track record in
-defining brand marketing strategies, delivering successful integrated marketing
+defining marketing strategies, delivering successful integrated marketing
 campaigns and driving sales and brand awareness.
 
 Entrepreneurial marketer, with a marketing career spanning 15 years across
-retail, financial services and e-commerce with ownership across brand strategy,
+retail, FMCG, financial services and e-commerce with ownership across brand strategy,
 integrated marketing campaigns, partnerships, events and digital marketing.
 
 Extensive strategic planning experience, project, team and media/creative
