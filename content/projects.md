@@ -74,6 +74,8 @@ Promotion activity and ecrm
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.png "")
 
 
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter1.png "")
+
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/ecrm.png "")
 
