@@ -29,6 +29,8 @@ In my leadership position I am responsible for envisioning and leading the produ
 
 
 ### Akzonobel
+Akzonobel is a Dutch multinational company which creates paints and performance coatings for both industry and consumers.  It is the parent company for paint brands including Dulux, Cuprinol and Hammerite.
+During my time at Akzonobel I had a number of roles that saw me successfully launch completely new online products  (Dulux Amazing Space) and drive the brand agenda for the more seasoned brands, namely dulux, dulux Trade and Cuprinol.
 
 #### Colour of the Year consumer press event as part of integrated marketing campaign
 
@@ -37,7 +39,7 @@ In my leadership position I am responsible for envisioning and leading the produ
 
 
 
-#### Dulux Amazing Space launch ad as part of integrated Brand campaign
+#### Dulux Amazing Space launch ad as part of integrated brand campaign
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das3.png "This is the text that appears when you hover over the image")
 
