@@ -27,7 +27,10 @@ Colour of the Year consumer press event as part of integrated marketing campaign
 Dulux Amazing Space launch ad as part of integrated Brand campaign
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das2.png "This is the text that appears when you hover over the image")
 
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/banners.jpg "This is the text that appears when you hover over the image")
+
 Optimised site
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/site.jpg "This is the text that appears when you hover over the image")
 
 Partner activity
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/tsb.jpg "This is the text that appears when you hover over the image")
@@ -48,8 +51,26 @@ Promotion activity and ecrm
 
 ### Sainsbury's
 
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/collection.jpg "This is the text that appears when you hover over the image")
+
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/photography.jpg "This is the text that appears when you hover over the image")
+
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
 
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
+
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
+
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
+
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
+
+g
+https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/jan-sale.jpg
+
+
+https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/summer-campaign.jpg
+https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/GSV.png
 
 
 
