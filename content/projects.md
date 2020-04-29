@@ -52,6 +52,7 @@ A 70% registration increase was driven through building AB tests, optimising mes
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/site.png "")
 
 
+
 #### Partner activity
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/tsb.png "")
@@ -64,12 +65,14 @@ Site/product press launch
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/pr.jpg "")
 
 
+
+
 Promotion activity and ecrm
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Easy%20as%201%202.png "")
 
-
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.png "")
+
 
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/ecrm.png "")
@@ -81,13 +84,11 @@ Promotion activity and ecrm
 ### Sainsbury's
 
 
-
 #### Collection Rebrand
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/collectionRB.png "")
 
 #### Autumn/Winter Seasonal Photography for Sainsbury's Home
-
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/seasonal%20AW.png "")
 
 
