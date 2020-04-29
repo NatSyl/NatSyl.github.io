@@ -83,6 +83,9 @@ Promotion activity and ecrm
 
 ### Sainsbury's
 
+Two roles were held during my tenure at Sainsburys.  During this time I developed creative, customer-led marketing propositions in order to build seasonal campaigns using consumer insights and traditional and digital channels (TV, radio, Press, instore POS, OOH, email, social) to drive awareness and growth nationwide.
+I also led the way as brand guardian.  Instrumental in setting the strategic direction for the Sainsbury's Collection brand across the UK, underpinned with consumer insight.  Owning brand creative development (packaging, photography digital assets), budget and brand plans for a £40 million a year luxury brand across 7 categories including consumer electricals and leisure across 1,000+ stores.
+
 
 #### Collection Rebrand
 
