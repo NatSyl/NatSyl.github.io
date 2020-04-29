@@ -44,6 +44,7 @@ In my leadership position I am responsible for envisioning and leading the produ
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/banners.jpg "This is the text that appears when you hover over the image")
 
 #### Site optimisation
+A 70% registration increase was driven through building AB tests, optimising messaging and the consumer journey with the support of UX and Engineers to put the changes in place
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/site.jpg "This is the text that appears when you hover over the image")
 
