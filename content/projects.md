@@ -22,7 +22,7 @@ Range launch across markets
 ### Akzonobel
 
 Colour of the Year Consumer Press Event as part of integrated marketing campaign
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das2.png "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Heartwood.png "This is the text that appears when you hover over the image")
 
 
 
