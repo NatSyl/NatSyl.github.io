@@ -15,15 +15,15 @@ In my leadership position I am responsible for envisioning and leading the produ
 
 #### GoodHome global product brand campaign
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign.png "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign.png "")
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign1.png "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign1.png "")
 
 
 
 #### Range launch across markets
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/paint%20range1.png "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/paint%20range1.PNG "")
 
 
 
