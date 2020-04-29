@@ -67,7 +67,7 @@ Site/product press launch
 Promotion activity and ecrm
 
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/easy-as-12.jpg "")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Easy%20as%201%202.png "")
 
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.jpg "")
