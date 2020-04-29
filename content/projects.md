@@ -24,15 +24,23 @@ Range launch across markets
 Colour of the Year Consumer Press Event as part of integrated marketing campaign
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Heartwood.png "This is the text that appears when you hover over the image")
 
-
-
 Dulux Amazing Space Launch Ad as part of integrated Brand campaign
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das2.png "This is the text that appears when you hover over the image")
 
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/tsb.jpg "This is the text that appears when you hover over the image")
+
 
 Customised paint activity
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das2.png "This is the text that appears when you hover over the image")
 
+Site press launch
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/pr.jpg "This is the text that appears when you hover over the image")
+
+Promotion activity and ecrm
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/easy-as-12.jpg "This is the text that appears when you hover over the image")
+
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.jpg "This is the text that appears when you hover over the image")
+
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/ecrm.jpg "This is the text that appears when you hover over the image")
 
 
 ### Sainsbury's
