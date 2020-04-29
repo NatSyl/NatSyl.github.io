@@ -34,46 +34,46 @@ During my time at Akzonobel I had a number of roles that saw me successfully lau
 
 #### Colour of the Year consumer press event as part of integrated marketing campaign
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Heartwood.png "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Heartwood.png "")
 
 
 
 
 #### Dulux Amazing Space launch ad as part of integrated brand campaign
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das3.png "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das3.png "")
 
 #### Banner ad tests
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Banners.png "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Banners.png "")
 
 #### Site optimisation
 A 70% registration increase was driven through building AB tests, optimising messaging and the consumer journey with the support of UX and Engineers to put the changes in place
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/site.png "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/site.png "")
 
 
 #### Partner activity
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/tsb.jpg "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/tsb.jpg "")
 
 
 #### Customised paint activity
 
 Site/product press launch
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/pr.jpg "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/pr.jpg "")
 
 Promotion activity and ecrm
 
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/easy-as-12.jpg "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/easy-as-12.jpg "")
 
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.jpg "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.jpg "")
 
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/ecrm.jpg "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/ecrm.jpg "")
 
 
 
@@ -81,24 +81,22 @@ Promotion activity and ecrm
 
 ### Sainsbury's
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/collectionRB.png "This is the text that appears when you hover over the image")
+#### Collection Rebrand
+
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/collectionRB.png "")
+
+#### Autumn/Winter Seasonal Photography for Sainsbury's Home
+
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/seasonal%20AW.png "")
 
 
+#### Seasonal Campaigns
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/photography.jpg "This is the text that appears when you hover over the image")
-
-
-
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/GSV.png "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/GSV.png "")
 
 
+#### Trade Marketing
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/jan-sale.jpg "This is the text that appears when you hover over the image")
-
-
-
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "")
 
 
-
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/summer-campaign.jpg "This is the text that appears when you hover over the image")
