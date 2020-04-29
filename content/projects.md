@@ -92,7 +92,7 @@ Promotion activity and ecrm
 
 #### Seasonal Campaigns
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/GSV.png "")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/seasonal%20sains.png "")
 
 
 #### Trade Marketing
