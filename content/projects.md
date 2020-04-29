@@ -39,7 +39,7 @@ In my leadership position I am responsible for envisioning and leading the produ
 
 #### Dulux Amazing Space launch ad as part of integrated Brand campaign
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das2.png "This is the text that appears when you hover over the image")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das3.png "This is the text that appears when you hover over the image")
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/banners.jpg "This is the text that appears when you hover over the image")
 
