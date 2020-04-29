@@ -5,8 +5,13 @@
 
 ## Selection of Projects
 
+Here are just a few creative highlights that I have devised and managed.  They were developed from customer insights and having a clear strategy, right through to execution.
 
-### Kingfisher
+
+### Kingfisher PLC
+
+Kingfisher is the largest Home Improvement retailer in Europe and the Third largest in the world. The are the parent company to B&Q in the UK and Brico Depot and Castorama across 
+In my leadership position I am responsible for envisioning and leading the product & range  marketing communication strategy across key markets including UK, France, Poland, Romania, Spain and Russia for a £1 billion cateory in order to support business decisions and drive sales, brand awareness and positive shopper experience through digital, instore experiential, POS, ATL, Digital, Social and Packaging, all in line with the GoodHome brand 
 
 GoodHome global product brand campaign
 
