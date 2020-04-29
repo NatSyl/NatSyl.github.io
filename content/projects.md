@@ -24,7 +24,7 @@ Range launch across markets
 Colour of the Year consumer press event as part of integrated marketing campaign
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Heartwood.png "This is the text that appears when you hover over the image")
 
-Dulux Amazing Space launch Aa as part of integrated Brand campaign
+Dulux Amazing Space launch ad as part of integrated Brand campaign
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das2.png "This is the text that appears when you hover over the image")
 
 Optimised site
