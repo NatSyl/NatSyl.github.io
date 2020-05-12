@@ -45,7 +45,7 @@ You can see [some of the key projects I've worked on](/projects)
 
 #### Head of Product Marketing Communications, Kingfisher PLC – London, UK                      			
 #### April 2018 – Present
- - Leadership position creating and leading the product marketing strategy and managing multiple projects simultaneously across Europe.  Supporting a £1 billion category driving sales and building brand awareness via ATL, digital and social media
+ - Leadership position creating and leading the product marketing strategy and managing multiple projects simultaneously across Europe.  Supporting a one of the largest categories in driving sales and building brand awareness via ATL, digital and social media
  - Launched global 360 product marketing communications campaign, within deadline through producing a structured, lean action plan, when faced with the challenge of arriving into a category business unit that was 5 months behind schedule
  - Built innovation strategy, to become a destination for inspiring and democratising home improvement.  Moving from functional to inspiring, creative content increasing average order value by 38% and improving content discovery experience
  - Used qualitative and quantitative customer data to deliver new brand packaging identity, leading the process through and influencing global cross-functional project teams (Regional Marketing, Product Development, PR, Creative and Insight)
