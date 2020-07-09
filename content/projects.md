@@ -15,8 +15,10 @@ In my leadership position I am responsible for envisioning and leading the produ
 
 #### GoodHome global product brand campaign
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign.png "")
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/7aqlrLYWotI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign.png "")
+
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign1.png "")
 
 
