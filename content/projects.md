@@ -13,7 +13,6 @@ Here are just a few creative highlights that I have devised, managed and deliver
 Kingfisher is the largest home improvement retailer in Europe and the third largest in the world. They are the parent company to B&Q in the UK and Brico Depot and Castorama across Europe.
 In my leadership position I am responsible for envisioning and leading the product & range  marketing communication strategy across key markets including UK, France, Poland, Romania, Spain and Russia in order to support business decisions, drive sales, brand awareness and a positive shopper experience through digital, instore experiential, POS, ATL, Digital, Social and Packaging, all in line with the GoodHome brand 
 
-<hr>
 
 #### GoodHome global product brand campaign
 
@@ -100,11 +99,12 @@ Drove 27%+ sign-up uplift
 
 #### Promotion activity and ecrm
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/320x50-GIF2.gif "")
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/320x50-GIF1.gif "")![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Easy%20as%201%202.png "")![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/easy%201%2C2.jpg "")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/320x50-GIF1.gif "")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Easy%20as%201%202.png "")![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/easy%201%2C2.jpg "")
 
 
-Awareness and retargeting campaign. Forecaseted 90.8K video views and £0.04 CPV obtained 394,376 video views £0.01 CPV. Advert recall lift: 7.94%
-retargeting phase CTR%:  0.52%
+Awareness and retargeting campaign. Forecaseted 90.8K video views and £0.04 CPV obtained 394,376 video views £0.01 CPV. Advert recall lift: 7.94%.
+Retargeting phase CTR%:  0.52%
 
 
 <hr>
