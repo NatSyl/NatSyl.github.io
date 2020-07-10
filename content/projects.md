@@ -13,6 +13,8 @@ Here are just a few creative highlights that I have devised, managed and deliver
 Kingfisher is the largest home improvement retailer in Europe and the third largest in the world. They are the parent company to B&Q in the UK and Brico Depot and Castorama across Europe.
 In my leadership position I am responsible for envisioning and leading the product & range  marketing communication strategy across key markets including UK, France, Poland, Romania, Spain and Russia in order to support business decisions, drive sales, brand awareness and a positive shopper experience through digital, instore experiential, POS, ATL, Digital, Social and Packaging, all in line with the GoodHome brand 
 
+<hr>
+
 #### GoodHome global product brand campaign
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/7aqlrLYWotI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -22,7 +24,7 @@ In my leadership position I am responsible for envisioning and leading the produ
 
 Brand participation increase: +6% 
 
-
+<hr>
 
 #### Range launch across markets
 
@@ -35,7 +37,7 @@ Brand participation increase: +6%
 
 Unified product saw 4% sales uplift in first 6 weeks
 
-
+<hr>
 
 
 
@@ -57,7 +59,7 @@ During my time at Akzonobel I had a number of roles that saw me successfully lau
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Heartwood.png "")
 
 
-
+<hr>
 
 #### Dulux Amazing Space launch ad as part of integrated brand campaign
 
@@ -67,13 +69,14 @@ During my time at Akzonobel I had a number of roles that saw me successfully lau
 
 
 
-
+<hr>
 
 
 #### Banner ad tests
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Banners.png "")
 
+<hr>
 
 #### Site optimisation
 A 70% registration increase was driven through building AB tests, optimising messaging and the consumer journey with the support of UX and Engineers to put the changes in place
@@ -81,7 +84,7 @@ A 70% registration increase was driven through building AB tests, optimising mes
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/site.png "")
 
 
-
+<hr>
 
 
 #### Partner activity
@@ -92,7 +95,7 @@ A 70% registration increase was driven through building AB tests, optimising mes
 Drove 27%+ sign-up uplift
 
 
-
+<hr>
 
 
 #### Promotion activity and ecrm
@@ -104,7 +107,7 @@ Awareness and retargeting campaign. Forecaseted 90.8K video views and £0.04 CPV
 retargeting phase CTR%:  0.52%
 
 
-
+<hr>
 
 
 
@@ -114,7 +117,7 @@ retargeting phase CTR%:  0.52%
 Targeted warm customers in the lower funnel across desktop, tablet and mobile Impressions: 1.4mil CTR%: 0.9% Sales uplift: 10% 
 
 
-
+<hr>
 
 
 
