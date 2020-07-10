@@ -20,7 +20,7 @@ In my leadership position I am responsible for envisioning and leading the produ
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign.png "")
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign1.png "")
-
+Brand participation increase: +6% 
 
 
 
@@ -30,8 +30,9 @@ In my leadership position I am responsible for envisioning and leading the produ
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Screenshot_2020-07-09%20GoodHome%20paint%20Goodhome%20Brands%20DIY%20at%20B%20Q.jpg
  "")
+ 
  [Click here](https://www.diy.com/brands/goodhome/paint#icamp=SRD_goodhomepaint) to watch embeded videos 
-
+Unified product saw 4% sales uplift in first 6 weeks
 
 
 ### Akzonobel
@@ -62,13 +63,7 @@ A 70% registration increase was driven through building AB tests, optimising mes
 #### Partner activity
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/tsb.png "")
-
-
-#### Customised paint activity
-
-Site/product press launch
-
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/pr.jpg "")
+Drove 
 
 
 
@@ -76,37 +71,12 @@ Site/product press launch
 Promotion activity and ecrm
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Easy%20as%201%202.png "")
+Awareness and retargeting campaign. Forecaseted 90.8K video views and £0.04 CPV obtained 394,376 video views £0.01 CPV. Advert recall lift: 7.94%
+retargeting phase CTR%:  0.52%
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.png "")
-
+Targeted warm customers in the lower funnel across desktop, tablet and mobile Impressions: 1.4mil CTR%: 0.9% Sales uplift: 10% 
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/ecrm.png "")
-
-
-
-
-
-### Sainsbury's
-
-Two roles were held during my tenure at Sainsburys.  During this time I developed creative, customer-led marketing propositions in order to build seasonal campaigns using consumer insights and traditional and digital channels (TV, radio, Press, instore POS, OOH, email, social) to drive awareness and growth nationwide.
-I also led the way as brand guardian.  Instrumental in setting the strategic direction for the Sainsbury's Collection brand across the UK, underpinned with consumer insight.  Owning brand creative development (packaging, photography digital assets), budget and brand plans for a £40 million a year luxury brand across 7 categories including consumer electricals and leisure across 1,000+ stores.
-
-
-#### Collection Rebrand
-
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/collectionRB.png "")
-
-#### Autumn/Winter Seasonal Photography for Sainsbury's Home
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/seasonal%20AW.png "")
-
-
-#### Seasonal Campaigns
-
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/seasonal%20sains.png "")
-
-
-#### Trade Marketing
-
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/partner-marketing.jpg "")
-
+Service and push marketing emails to existing customers
 
