@@ -37,6 +37,14 @@ Unified product saw 4% sales uplift in first 6 weeks
 
 
 
+
+
+
+
+
+
+
+
 ### Akzonobel
 Akzonobel is a Dutch multinational company which creates paints and performance coatings for both industry and consumers.  It is the parent company for paint brands including Dulux, Cuprinol and Hammerite.
 During my time at Akzonobel I had a number of roles that saw me successfully launch and steer the development of two completely new online products  (Dulux Amazing Space) and drive the brand agenda for the more seasoned brands, namely dulux, dulux Trade and Cuprinol.
@@ -85,9 +93,7 @@ Drove 27%+ sign-up uplift
 
 #### Promotion activity and ecrm
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/320x50-GIF2.gif "")
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/320x50-GIF1.gif "")
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Easy%20as%201%202.png "")
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/easy%201%2C2.jpg "")
+![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/320x50-GIF1.gif "")![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Easy%20as%201%202.png "")![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/easy%201%2C2.jpg "")
 Awareness and retargeting campaign. Forecaseted 90.8K video views and £0.04 CPV obtained 394,376 video views £0.01 CPV. Advert recall lift: 7.94%
 retargeting phase CTR%:  0.52%
 
