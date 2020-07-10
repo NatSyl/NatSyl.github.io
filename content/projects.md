@@ -5,7 +5,7 @@
 
 ## Selection of Projects
 
-Here are just a few creative highlights that I have devised, managed and delivered.  They were developed from customer insights and having a clear strategy, right through to execution.
+Here are just a few creative highlights that I have devised, managed and delivered.  They were developed from customer insights and having a clear strategy
 
 
 ### Kingfisher PLC
@@ -17,8 +17,6 @@ In my leadership position I am responsible for envisioning and leading the produ
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/7aqlrLYWotI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign.png "")
-
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign1.png "")
 Brand participation increase: +6% 
 
@@ -26,7 +24,7 @@ Brand participation increase: +6%
 
 #### Range launch across markets
 
-![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/paint%20range1.PNG "")
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/QOvwU9ltaNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Screenshot_2020-07-09%20GoodHome%20paint%20Goodhome%20Brands%20DIY%20at%20B%20Q.jpg
  "")
@@ -63,7 +61,7 @@ A 70% registration increase was driven through building AB tests, optimising mes
 #### Partner activity
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/tsb.png "")
-Drove 
+Drove 27%+ sign-up uplift
 
 
 
