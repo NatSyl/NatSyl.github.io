@@ -19,6 +19,7 @@ In my leadership position I am responsible for envisioning and leading the produ
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign1.png "")
 
+
 Brand participation increase: +6% 
 
 
@@ -86,6 +87,8 @@ A 70% registration increase was driven through building AB tests, optimising mes
 #### Partner activity
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/tsb.png "")
+
+
 Drove 27%+ sign-up uplift
 
 
@@ -95,6 +98,8 @@ Drove 27%+ sign-up uplift
 #### Promotion activity and ecrm
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/320x50-GIF2.gif "")
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/320x50-GIF1.gif "")![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Easy%20as%201%202.png "")![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/easy%201%2C2.jpg "")
+
+
 Awareness and retargeting campaign. Forecaseted 90.8K video views and £0.04 CPV obtained 394,376 video views £0.01 CPV. Advert recall lift: 7.94%
 retargeting phase CTR%:  0.52%
 
@@ -104,6 +109,8 @@ retargeting phase CTR%:  0.52%
 
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/winter.png "")
+
+
 Targeted warm customers in the lower funnel across desktop, tablet and mobile Impressions: 1.4mil CTR%: 0.9% Sales uplift: 10% 
 
 
@@ -112,5 +119,7 @@ Targeted warm customers in the lower funnel across desktop, tablet and mobile Im
 
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/ecrm.png "")
+
+
 Service and push marketing emails to existing customers
 
