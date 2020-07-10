@@ -17,7 +17,7 @@ In my leadership position I am responsible for envisioning and leading the produ
 
 #### GoodHome global product brand campaign
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/7aqlrLYWotI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="889" height="500" src="https://www.youtube.com/embed/7aqlrLYWotI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/brand%20campaign1.png "")
 
@@ -28,7 +28,7 @@ Brand participation increase: +6%
 
 #### Range launch across markets
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/QOvwU9ltaNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="889" height="6500" src="https://www.youtube.com/embed/QOvwU9ltaNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Screenshot_2020-07-09%20GoodHome%20paint%20Goodhome%20Brands%20DIY%20at%20B%20Q.jpg
  "")
@@ -63,7 +63,7 @@ During my time at Akzonobel I had a number of roles that saw me successfully lau
 
 #### Dulux Amazing Space launch ad as part of integrated brand campaign
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/iNHcZeN0YSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="889" height="500" src="https://www.youtube.com/embed/iNHcZeN0YSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/das%20email.png "")
 
