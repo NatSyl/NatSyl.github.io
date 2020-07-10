@@ -28,7 +28,7 @@ Brand participation increase: +6%
 
 #### Range launch across markets
 
-<iframe width="889" height="6500" src="https://www.youtube.com/embed/QOvwU9ltaNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="889" height="500" src="https://www.youtube.com/embed/QOvwU9ltaNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![descriptive text that is shown when no image loads](https://raw.githubusercontent.com/NatSyl/natsyl.github.io/develop/static/images/Screenshot_2020-07-09%20GoodHome%20paint%20Goodhome%20Brands%20DIY%20at%20B%20Q.jpg
  "")
